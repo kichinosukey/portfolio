@@ -10,6 +10,7 @@
 
 ### Web開発
 - [Coffee Recipe Generator](https://github.com/kichinosukey/coffee_receipe_generator)
+- [My Coffee App](https://github.com/kichinosukey/my-coffee-app) - S3へのホスティングテスト
 
 ### 組み込み/IoT
 
