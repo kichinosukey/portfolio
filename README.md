@@ -7,6 +7,8 @@
 ### AI/機械学習関連
 
 - [GPT Discord Bot](https://github.com/kichinosukey/gpt-discord-bot) - Discord bot written in Python that uses the assistants API to have conversations with the `gpt-4` model.
+
+### Web開発
 - [Coffee Recipe Generator](https://github.com/kichinosukey/coffee_receipe_generator)
 
 ### 組み込み/IoT
