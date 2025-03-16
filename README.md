@@ -11,6 +11,7 @@
 ### Web開発
 - [Coffee Recipe Generator](https://github.com/kichinosukey/coffee_receipe_generator)
 - [My Coffee App](https://github.com/kichinosukey/my-coffee-app) - S3へのホスティングテスト
+- [Cardi Sale](https://github.com/kichinosukey/cardi-sale) - カルディのセール情報をスクレイピングし、特定の店舗のセール情報をDiscordに通知するボット
 
 ### 組み込み/IoT
 
@@ -26,3 +27,4 @@
 - [JsonREPL](https://github.com/kichinosukey/jsonrepl)
 - [Loochs Picture Upload to CloudStorage](https://github.com/kichinosukey/loochs-picture-upload-to-cloudstorage) - 任意のファイルを任意のクラウドストレージにアップロードしてその公開リンクを取得するツール
 - [Alfred Browsers Profiles](https://github.com/kichinosukey/alfred-browsers-profiles) - Open your browsers profiles from Alfred
+- [Dotfiles](https://github.com/kichinosukey/dotfiles) - 自分のシェル設定（.zshrc）を管理するためのリポジトリ
