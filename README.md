@@ -26,6 +26,6 @@
 
 - [JsonREPL](https://github.com/kichinosukey/jsonrepl)
 - [Loochs Picture Upload to CloudStorage](https://github.com/kichinosukey/loochs-picture-upload-to-cloudstorage) - 任意のファイルを任意のクラウドストレージにアップロードしてその公開リンクを取得するツール
-- [Alfred Browsers Profiles](https://github.com/kichinosukey/alfred-browsers-profiles) - Open your browsers profiles from Alfred
+- [Alfred Browsers Profiles - edit profile name](https://github.com/skydiver/alfred-browsers-profiles/pull/13/commits/7c854025f6d914554e1ba880768afec8f3fb9ccf) - Existed Alfred workflow extension, now developing
 - [Alfred Workflow Date Format](https://github.com/kichinosukey/alfred-workflow-date-format) - Alfred workflowで日付をフォーマットするツール
 - [Dotfiles](https://github.com/kichinosukey/dotfiles) - 自分のシェル設定（.zshrc）を管理するためのリポジトリ
